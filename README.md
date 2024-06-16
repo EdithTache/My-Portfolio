@@ -41,23 +41,13 @@ Hi, I'm Edith Tache, a passionate Data Science student with a strong background 
   *July 2017 – Aug 2022*  
   Managed nine distributors/partners overseeing P&L reviews, business meetings, risk analyses, and sales reconciliations. Developed business plans focusing on QDVP3 across all sales channels, significantly boosting partners' and customers' sales opportunities, product market share, and NSV growth. Supervised and trained a team of 22 salesmen, formulating efficient journey plans to optimize their performance. Led marketing initiatives, including the launch of new products and displays, and coordinated promotional activities in close collaboration with the marketing team, external agencies, and Brand Ambassadors.
 
-## Student Project Experience
-- **Sentiment Analysis on Climate Change**  
-  Analyzed public sentiment on climate change using machine learning models, classifying emotions in Reddit posts to uncover sentiment trends.
-
-- **Temperature Forecasting in Houston**  
-  Developed a predictive model and a dash application for forecasting the next day’s temperature in Houston utilizing historical data for accurate predictions.
-
-- **COVID-19 Data Analysis**  
-  Conducted a comprehensive analysis of diverse COVID-19 datasets, integrating global statistics, real-time data, and narrative sources to assess the pandemic’s impacts and responses.
-
 ## Projects
 - **[Social Media Sentiment Analysis](https://github.com/edithtache/social-media-sentiment-analysis):** A project using natural language processing to analyze sentiment in social media posts.
 - **[Sales Forecasting](https://github.com/edithtache/sales-forecasting):** Developed a machine learning model to predict future sales based on historical data.
 - **[Customer Segmentation](https://github.com/edithtache/customer-segmentation):** Used clustering algorithms to segment customers based on purchasing behavior.
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/edithtache)
+- https://www.linkedin.com/in/edith-tache-1b0179151?trk=contact-info
 - 
 ## GitHub Stats
 ![Edith Tache's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edithtache&show_icons=true&theme=radical)
