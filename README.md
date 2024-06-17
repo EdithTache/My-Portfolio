@@ -7,7 +7,7 @@ Hi, I'm Edith Tache, a passionate Data Science student with a strong background 
 - **🌱 I’m currently learning:** Deep learning techniques and TensorFlow.
 - **👯 I’m looking to collaborate on:** Data science projects, particularly those involving machine learning or data visualization.
 - **💬 Ask me about:** Python, data analysis, machine learning, and visualization tools like Matplotlib, Seaborn, and Power BI.
-- **📫 How to reach me:** edithtache@yahoo.com or https://www.linkedin.com/in/edith-tache-1b0179151?trk=contact-info
+- **📫 How to reach me:** edithtache@yahoo.com or [LinkedIn](https://www.linkedin.com/in/edith-tache-1b0179151?trk=contact-info)
 - **⚡ Fun fact:** I'm also an avid traveler and love exploring new cultures and cuisines.
 
 ## Skills and Proficiencies
@@ -46,7 +46,7 @@ Hi, I'm Edith Tache, a passionate Data Science student with a strong background 
 - **[Analyzing the Impact of Reviews on Airbnb Booking Rates](https://github.com/EdithTache/My-portfollo/blob/main/Project%203.md)**
 
 ## Connect with Me
-- https://www.linkedin.com/in/edith-tache-1b0179151?trk=contact-info
+- [LinkedIn](https://www.linkedin.com/in/edith-tache-1b0179151?trk=contact-info)
    
 ## GitHub Stats
 ![Edith Tache's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edithtache&show_icons=true&theme=radical)
