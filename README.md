@@ -41,7 +41,7 @@ Hi, I'm Edith Tache, a passionate Data Science student with a strong background 
   Managed nine distributors/partners overseeing P&L reviews, business meetings, risk analyses, and sales reconciliations. Developed business plans focusing on QDVP3 across all sales channels, significantly boosting partners' and customers' sales opportunities, product market share, and NSV growth. Supervised and trained a team of 22 salesmen, formulating efficient journey plans to optimize their performance. Led marketing initiatives, including the launch of new products and displays, and coordinated promotional activities in close collaboration with the marketing team, external agencies, and Brand Ambassadors.
 
 ## Projects
-- My-portfollo/Project 1.md at main · EdithTache/My-portfollo (github.com):** Predicting and Enhancing Employee Performance Through HR Analytics.
+- [Predicting and Enhancing Employee Performance Through HR Analytics](My-portfollo/Project 1.md at main · EdithTache/My-portfollo (github.com)
 - My-portfollo/Project 2.md at main · EdithTache/My-portfollo (github.com):** Impact of Transaction Characteristics on Fraud Detection.
 - My-portfollo/Project 3.md at main · EdithTache/My-portfollo (github.com):** Analyzing the Impact of Reviews on Airbnb Booking Rates.
 
