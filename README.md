@@ -42,7 +42,7 @@ Hi, I'm Edith Tache, a passionate Data Science student with a strong background 
 
 ## Projects
 - [Predicting and Enhancing Employee Performance Through HR Analytics](https://github.com/EdithTache/My-Portfolio/tree/main/Project%201)
-- **[Predicting and Enhancing Employee Performance Through HR Analytics](https://github.com/EdithTache/My-portfollo/blob/main/Project%201.md)**
+- [Predicting and Enhancing Employee Performance Through HR Analytics](https://github.com/EdithTache/My-Portfolio/tree/main/Project%201:%20Predicting%20and%20Enhancing%20Employee%20Performance%20Through%20HR%20Analytics)
 - **[Impact of Transaction Characteristics on Fraud Detection](https://github.com/EdithTache/My-portfollo/blob/main/Project%202.md)**
 - **[Analyzing the Impact of Reviews on Airbnb Booking Rates](https://github.com/EdithTache/My-portfollo/blob/main/Project%203.md)**
 
