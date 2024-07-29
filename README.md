@@ -42,8 +42,8 @@ Hi, I'm Edith Tache, a passionate Data Science student with a strong background 
 
 ## Projects
 - [Predicting and Enhancing Employee Performance Through HR Analytics](https://github.com/EdithTache/My-Portfolio/tree/main/Project%201:%20Predicting%20and%20Enhancing%20Employee%20Performance%20Through%20HR%20Analytics)
-- **[Impact of Transaction Characteristics on Fraud Detection](https://github.com/EdithTache/My-portfollo/blob/main/Project%202.md)**
-- **[Analyzing the Impact of Reviews on Airbnb Booking Rates](https://github.com/EdithTache/My-portfollo/blob/main/Project%203.md)**
+- [Impact of Transaction Characteristics on Fraud Detection](https://github.com/EdithTache/My-Portfolio/tree/main/Project%202:%20Impact%20of%20Transaction%20Characteristics%20on%20Fraud%20Detection)
+- [Analyzing the Impact of Reviews on Airbnb Booking Rates](https://github.com/EdithTache/My-Portfolio/tree/main/Project%203:%20Analyzing%20the%20Impact%20of%20Reviews%20on%20Airbnb%20Booking%20Rates)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/edith-tache-1b0179151?trk=contact-info)
